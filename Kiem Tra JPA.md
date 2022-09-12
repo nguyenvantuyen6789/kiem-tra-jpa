@@ -85,7 +85,7 @@ C. Để toàn vẹn dữ liệu khi cập nhật dữ liệu (thêm, sửa xoá
 
 ### Câu 11
 Câu nào đúng về quan hệ nhiều nhiều?
-A. Quan hệ nhiều nhiều giữa 2 entity Category và Product phải cần 1 entity category_product nữa mới có thể thao tác được.
+> A. Quan hệ nhiều nhiều giữa 2 entity Category và Product phải cần 1 entity category_product nữa mới có thể thao tác được.
 B. Quan hệ nhiều nhiều chỉ có thể dùng 2 annotation @ManyToMany ở 2 entity Category và Product.
 C. Quan hệ nhiều nhiều giữa 2 entity Category và Product có thể dùng 2 annotation @OneToMany và @ManyToOne.
 
