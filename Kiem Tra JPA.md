@@ -93,7 +93,7 @@ B. Khi dùng phân trang thì trang đầu tiên mặc định trong Spring Data
 C. Phân trang trong Spring Data Jpa không bắt buộc phải gửi 3 tham số page, size, sort
 
 ### Bài Tập Code
-![Alt](https://i.imgur.com/nhzMtLm.png)
+![Alt](https://raw.githubusercontent.com/nguyenvantuyen6789/kiem-tra-jpa/main/OneToMany.png)
 #### Tạo 2 Entity Product(id, productName, quantity(số lượng)), Category (id, categoryName)
 #### Hãy bổ sung quan hệ One to Many giữa bảng Category, Product (1 category có nhiều product)
 #### Viết Api CRUD category, CRUD product
