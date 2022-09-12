@@ -59,18 +59,18 @@ Trong những method sau, phương thức nào là sử dụng NamedQuery?
 #### List<Product> findDataToShow();
 
 ### Câu 9
-public class Category {
-	...
-	@OneToMany(mapBy="category")
-	private List<Product> products;
-}
+#### public class Category {
+#### 	...
+#### 	@OneToMany(mapBy="category")
+#### 	private List<Product> products;
+#### }
 
-public class Product {
-	...
-	@ManyToOne
-	@JoinColumn(name = "category_id")
-	private Category category;
-}
+#### public class Product {
+#### 	...
+#### 	@ManyToOne
+#### 	@JoinColumn(name = "category_id")
+#### 	private Category category;
+#### }
 Chọn mô tả đúng?
 
 #### A. Đoạn code trên sẽ tạo ra 1 cột category_id trong bảng category
