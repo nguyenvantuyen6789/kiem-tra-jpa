@@ -50,13 +50,13 @@ Giả sử có 1 class Employee với các fields sau {id, emailAddress, firstNa
 ### Câu 8
 Trong những method sau, phương thức nào là sử dụng NamedQuery?
 #### A.
-@Query("FROM Product WHERE productName = 'Ô tô'")
-List<Product> findDataFromDb();
+#### @Query("FROM Product WHERE productName = 'Ô tô'")
+#### List<Product> findDataFromDb();
 #### B.
-List<Product> findByProductName(String productName);
+#### List<Product> findByProductName(String productName);
 #### C.
-@Query("SELECT * FROM product WHERE product_name = 'Ô tô'", nativeQuery = true)
-List<Product> findDataToShow();
+#### @Query("SELECT * FROM product WHERE product_name = 'Ô tô'", nativeQuery = true)
+#### List<Product> findDataToShow();
 
 ### Câu 9
 public class Category {
