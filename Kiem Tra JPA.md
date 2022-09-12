@@ -53,7 +53,7 @@ Trong những method sau, phương thức nào là sử dụng NamedQuery?
 @Query("FROM Product WHERE productName = 'Ô tô'")
 List<Product> findDataFromDb();
 #### B.
-List<Product> findByProductName();
+List<Product> findByProductName(String productName);
 #### C.
 @Query("SELECT * FROM product WHERE product_name = 'Ô tô'", nativeQuery = true)
 List<Product> findDataToShow();
