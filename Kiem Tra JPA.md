@@ -40,7 +40,7 @@ Câu nào đúng về annotation @Id?
 #### A. Khi dùng @Id để tạo key cho table, bắt buộc phải dùng kèm @GeneratedValue
 #### B. Khi dùng @Id để tạo key cho table, chỉ có thể tạo property id là kiểu số
 #### C. Khi tạo id cho entity, kiểu @GeneratedValue(strategy = GenerationType.AUTO) là kiểu tạo ra dữ liệu kiểu string do chúng ta tự custom
-D. Khi dùng @GeneratedValue loại sequence, có thể set giá trị id đầu tiên theo ý mình
+#### D. Khi dùng @GeneratedValue loại sequence, có thể set giá trị id đầu tiên theo ý mình
 
 ### Câu 7
 Giả sử có 1 class Employee với các fields sau {id, emailAddress, firstName, lastName}. Hãy viết các method trong interface EmployeeRespository để :
