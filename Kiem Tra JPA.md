@@ -91,9 +91,9 @@ C. Quan hệ nhiều nhiều giữa 2 entity Category và Product có thể dùn
 
 ### Câu 12
 Câu nào đúng về phân trang?
-A. Phân trang trong Spring Data Jpa bắt buộc phải gửi 3 tham số page, size, sort
-B. Khi dùng phân trang thì trang đầu tiên mặc định trong Spring Data Jpa là trang 1
-C. Phân trang trong Spring Data Jpa không bắt buộc phải gửi 3 tham số page, size, sort
+#### A. Phân trang trong Spring Data Jpa bắt buộc phải gửi 3 tham số page, size, sort
+#### B. Khi dùng phân trang thì trang đầu tiên mặc định trong Spring Data Jpa là trang 1
+#### C. Phân trang trong Spring Data Jpa không bắt buộc phải gửi 3 tham số page, size, sort
 
 ### Bài Tập Code
 ![Alt](https://raw.githubusercontent.com/nguyenvantuyen6789/kiem-tra-jpa/main/OneToMany.png)
