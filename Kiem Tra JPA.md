@@ -1,7 +1,7 @@
 ## Kiểm tra JPA
-## Thời gian: 90 phút
+## Thời gian: 105 phút
 ## Cách nộp bài: Mọi người trả lời câu hỏi ngay dưới câu trả lời, sau đó tạo project trong github (public) rồi update file Kiem Tra JPA.md này và source code lên, sau đó gửi link github cho giáo viên
-## Project github có tên: KiemTraJPA_HoTen (Ví dụ: KiemTraJPA_NguyenVanNam)
+## Project github (để public, không private) có tên: KiemTraJPA_HoTen (Ví dụ: KiemTraJPA_NguyenVanNam)
 
 ### Câu 1
 Annotation @Entity để làm gì?
