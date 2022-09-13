@@ -100,4 +100,5 @@ Câu nào đúng về phân trang?
 #### Tạo 2 Entity Product(id, productName, quantity(số lượng)), Category (id, categoryName)
 #### Hãy bổ sung quan hệ One to Many giữa bảng Category, Product (1 category có nhiều product)
 #### Viết Api CRUD category, CRUD product
+#### Viết chức năng tìm kiếm product theo productName (Like %%)
 #### Viết Api để search category theo category name sử dụng specification trong Spring Data Jpa
