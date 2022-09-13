@@ -45,7 +45,7 @@ Câu nào đúng về annotation @Id?
 ### Câu 7
 Giả sử có 1 class Employee với các fields sau {id, emailAddress, firstName, lastName}. Hãy viết các method trong interface EmployeeRespository để :
 #### Tìm tất cả các Employee theo emailAddress
-#### Tìm tất cả các Employee khác nhau th eo firstName hoặc lastName
+#### Tìm tất cả các Employee khác nhau theo firstName hoặc lastName
 
 ### Câu 8
 Trong những method sau, phương thức nào là sử dụng NamedQuery?
